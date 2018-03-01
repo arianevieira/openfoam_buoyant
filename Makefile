@@ -1,3 +1,5 @@
+
+
 shell:
 	docker run -it --rm -v $(PWD)/project:/home/thunder thenets/openfoam
 
